@@ -1,4 +1,4 @@
-<img width="775" height="321" alt="Screenshot" src="https://github.com/user-attachments/assets/22231461-2ab9-4e99-816c-1a5cbefe7e30" />
+<img width="957" height="321" alt="Screenshot" src="https://github.com/user-attachments/assets/8c2defea-21ff-4c2e-897a-a5b2a18a44de" />
 
 ## Setup
 
